@@ -1,0 +1,28 @@
+.container{
+    margin-left: 116px;
+    margin-top: 11px;
+}
+.minusBtn{
+    margin-right: 9px;
+    background-color: #1b63c8;
+    color: #edfcff;
+    border: none;
+    padding: 4px;
+    width: 24px;
+    border-radius: 4px;
+}
+.minusBtn:hover{
+    cursor: pointer;
+}
+.plusBtn:hover{
+    cursor: pointer;
+}
+.plusBtn{
+    margin-left: 8px;
+    background-color: #1b63c8;
+    color: #edfcff;
+    border: none;
+    padding: 4px;
+    width: 24px;
+    border-radius: 4px;
+}
